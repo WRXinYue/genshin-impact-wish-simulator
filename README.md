@@ -33,6 +33,8 @@ https://www.bilibili.com/video/
 *  遁地GPS (免费)
 
 **虚拟机：**
+
+优先推荐使用光速虚拟机或者VM虚拟机（51虚拟机不推荐），部分人用光速虚拟机可能存在兼容性无法使用的问题，用其它下载虚拟机代替即可。
 * [VMOS PRO](https://www.vmos.com/)
 * [F1 VM](https://f1vm.com/)
 * [VPhoneGaGa (光速虚拟机)](https://gsxnj.cn/)
@@ -47,11 +49,16 @@ https://www.bilibili.com/video/
 如果应用下载很慢那你可以试试使用如下的链接
 
 **蓝奏云链接：**
-https://wrxinyue.lanzouq.com/b02v7qpxa
-密码:e4mv
+https://wrxinyue.lanzouq.com/b02v7qpxa 密码:e4mv
 
 **光速虚拟机下载链接:**
 https://www.123pan.com/s/gwiDVv-ZpHQH
+
+**光速虚拟机&&51虚拟机：**
+https://cowtransfer.com/s/01664852788b42 口令 3wgglm
+
+**VM虚拟机：**
+https://hdxb.lanzouf.com/b03d0zsbg
 
 
 ## 其它
