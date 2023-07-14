@@ -16,7 +16,7 @@
 
 ## 视频教程
 
-https://www.bilibili.com/video/
+https://www.bilibili.com/video/BV1ZS4y1J7Wa
 
 
 ## 必要软件
